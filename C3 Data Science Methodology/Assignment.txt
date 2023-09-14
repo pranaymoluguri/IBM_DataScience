@@ -1,0 +1,30 @@
+We will gather all the applications data from the credit card company including the status, i.e., Approved or Rejected.
+
+Analytical Approach:
+1. Classification : Into approved and Rejected
+2. Diagnostics (Statistical Analysis) - Reasons
+3. Predictive : Forecasting about the chances and rates of approval and rejection.
+4. Prescriptive: How to reduce the rejection rate by sorting in the initial stage, or placing conditions on applications itself.
+
+Data Requirements:
+We will identify the required data, from the raw data fetched, to solve the issue.
+
+Data Collection:
+We will collect and sort the identified data as per the necessity for further process. (Understanding and Preparation)
+
+Data Understanding and Preparation:
+All the data is segregated and arranged, such that the final outcome is easily derived
+Eg : Changes in the type of data, columns, arranging them accordingly.
+Then we will analyze the data, and order them if it makes more easy to analyze, and will do the changes again and again till the data is perfectly arranged for the next step.
+
+Modeling and Evaluation
+Creating a Decision Tree, with possible reasons : Low credit score, Address / Details mismatch, Previous Defaults, Fraud cases, etc etc.
+
+For deep understanding, we will get into analyzing the highest reasons behind the rejections.
+
+We will again create the data flow decision tree with additional nodes.
+
+Then if the model needs more accuracy, new set of data will be fetched and added and the process is reiterated.
+
+
+
